@@ -1,10 +1,10 @@
 # lucasDinalli-pedroMangino
 Projeto do semestre
-Tema:
+Tema: Rede Social sobre Video Jogos
 
-Público-alvo:
+Público-alvo: Todos que partilham da paixão por video jogos
 
-Objetivos do site:
+Objetivos do site: Compa
 
 Funcionalidades do site:
 
