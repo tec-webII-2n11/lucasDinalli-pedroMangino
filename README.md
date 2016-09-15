@@ -14,6 +14,6 @@ Usuário Logado: criar/excluir posts PRÓPRIOS, mandar mensagens para outros usu
 
 Usuário Visitante: visualisar posts
 
-Mapa de Navegação:
+Mapa de Navegação: z
 
 Wireframe:
