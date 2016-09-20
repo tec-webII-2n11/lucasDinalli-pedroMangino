@@ -14,6 +14,6 @@ Usuário Logado: criar/excluir posts PRÓPRIOS, mandar mensagens para outros usu
 
 Usuário Visitante: visualisar posts
 
-Mapa de Navegação: zsaasd
+Mapa de Navegação: MAPA URL(http://image.prntscr.com/image/8e69143573f84627a922f8763abae6ac.jpg)
 
-Wireframe:
+Wireframe: WIREFRAME URL(http://image.prntscr.com/image/4c19cea388cd433bab5f5e0ea69216f2.png)
