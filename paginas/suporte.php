@@ -21,7 +21,7 @@
                  <input type="text" name="emailc" id="emailc" size="30" required/></p>
                  
                   <p><label for="texto"> Mensagem</label></p>
-                     <textarea col="20" row="20" id="texto" name="texto" placeholder="Digite aqui a sua mensagem"></textarea>                                      </p>
+                     <p><textarea col="20" row="20" id="texto" name="texto" placeholder="Digite aqui a sua mensagem"></textarea>                                      </p>
                  
                  
                  <p><input type="submit" value="Enviar" name="enviar" ></p>

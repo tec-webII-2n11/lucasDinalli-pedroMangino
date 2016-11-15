@@ -13,9 +13,10 @@
         
         
         
-            <h1 style="text-align:center;">Entrar</h1>
+            <h1 style="margin-left:800px">Entrar</h1>
             
-            <form id="cadastro">
+            <!-- o id antes era cadastro, se der problema, voltar para cadastro -->
+            <form id="cadastro" method="POST" action="login.php">
                 
                   <p><label for="username"> Username</label>
                  <input type="text" name="username" id="username" size="30" required/></p>

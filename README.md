@@ -6,7 +6,7 @@ Público-alvo: Todos que partilham da paixão por video jogos
 
 Objetivos do site: Compartilhar as façanhas feitas em qualquer jogo
 
-Funcionalidades do site: ser o meio de comunicação entre pessoas que se interessam em conhecer outras pessoas para jogar juntas ou apenas para compartilhar os seus feitos
+Funcionalidades do site: Postar imagens para exibir suas conquistas no jogo ou coisas engraçadas relacionadas aos jogos
 
 Usuário Administrador: Poder de gerenciar tudo, criar/excluir posts, banir usuários, além do que um usuário normal pode fazer
 

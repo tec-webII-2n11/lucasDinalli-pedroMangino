@@ -13,11 +13,9 @@
         
         
         
-            <h1 style="text-align:center;" type="text/css">
-                
-            Cadastro</h1>
+            <h1 style="margin-left:800px"> Cadastro</h1>
             
-            <form id="cadastro">
+            <form id="cadastro" method="POST" action="cadastroDB.php">
                 <p><label for="nome"> Nome Completo:</label>
                 <input type="text" name="nome" id="nome" size="30" required/></p>
                 
@@ -27,13 +25,13 @@
                  <p><label for="cemail"> Confirmar E-Mail:</label>
                  <input type="email" name="cemail" id="cemail" size="20" required/></p>
                  
-                  <p><label for="username"> Username</label>
+                  <p><label for="username"> Username:</label>
                  <input type="text" name="username" id="username" size="30" required/></p>
                  
-                  <p><label for="senha"> Senha</label>
+                  <p><label for="senha"> Senha:</label>
                  <input type="password" name="senha" id="senha" size="30" required/></p>
                  
-                  <p><label for="csenha"> Confirmar Senha</label>
+                  <p><label for="csenha"> Confirmar Senha:</label>
                  <input type="password" name="csenha" id="csenha" size="30" required/></p>
                  
                 
