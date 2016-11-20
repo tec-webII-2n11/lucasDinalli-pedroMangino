@@ -14,17 +14,13 @@
         
         <section>
             <h1>Counter-Strike: Global Offensive</h1>
+            <div class="center">
+            <img src="../img/cs.jpg" alt="counter-strike" id="cs" height="400px" width="700px"/>
+            </div>
             
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
+            <p class="texto">Counter-Strike: Global Offensive (CS:GO) é um jogo de tiro em primeira pessoa online desenvolvido pela Valve Corporation e pela Hidden Path Entertainment
+            sendo uma sequência de Counter-Strike: Source. É o quarto título principal da franquia.</p>
+            
             
             
         </section>

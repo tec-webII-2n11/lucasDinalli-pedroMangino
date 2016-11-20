@@ -15,16 +15,13 @@
         <section>
             <h1>League Of Legends</h1>
             
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
-            <p>Qualquer coisa só para testar</p>
+            <div class="center">
+            <img src="../img/lol.jpg" alt="league-of-legends" id="lol" height="400px" width="700px"/>
+            </div>
+            
+            <p class="texto">League of Legends (LOL) é um jogo eletrônico do gênero multiplayer online battle arena, desenvolvido e publicado pela 
+    Riot Games para Microsoft Windows e MAC OS X. É um jogo free-to-play inspirado no modo Defense of the Ancients de Warcraft III: The Frozen Throne.</p>
+            
             
             
         </section>

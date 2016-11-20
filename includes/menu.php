@@ -16,18 +16,19 @@
        <li><a href="jsc.php">StarCraft 2 </a></li>
       </ul>
      </li>
-     <li><a href="#">Times</a>
-      <ul>
-       <li><a href="tlol.php">League of Legends </a></li>
-       <li><a href="tcs.php">Counter Strike: Global Offensive </a></li>
-       <li><a href="ths.php">Hearthstone </a></li>
-       <li><a href="tdota.php">Dota 2 </a></li>
-       <li><a href="tsmite.php">Smite </a></li>
-       <li><a href="tsc.php">StarCraft 2 </a></li>
-      </ul>
-     </li>
-     <li><a href="entrar.php">Entrar</a></li>
-     <li><a href="cadastro.php">Cadastre-se</a></li>
-     <li><a href="suporte.php">Suporte</a></li>
+     <li><a href="timeline.php">Posts</a>
+      
+     
+     
+     
+     
+      <?php if(isset($_COOKIE['usuario'])){
+        
+        echo('<li><a href="novopost.php">Postar</a></li> <li><a href="#">'.$_COOKIE['usuario'].'</a></li> <li><a href="logout.php">Sair</a></li> ');
+        }
+        else{echo('<li><a href="entrar.php">Entrar</a></li> <li><a href="cadastro.php">Cadastre-se</a></li>');}
+        ?>
+        
+        <li><a href="suporte.php">Suporte</a></li>
     </ul>
 </nav>
